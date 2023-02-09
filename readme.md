@@ -7,3 +7,8 @@
 dofile("run.lua")
 ```
 - Now go to `module/obfuscate.lua` then replace the `print("Your script here")` to your script that you want to obfuscate. Run the code and your done it will drop the result to `script` folder.
+
+# Credits
+- SupLuaYT (Creator)
+- PY44N (Some Codes & Inspiration)
+- kosuke14 (Inspiration)
